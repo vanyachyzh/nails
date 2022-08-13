@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nails/static/css/main.92216efc.css",
+    "main.js": "/nails/static/js/main.bf6b78d5.js",
+    "static/js/787.d7ff86a1.chunk.js": "/nails/static/js/787.d7ff86a1.chunk.js",
+    "index.html": "/nails/index.html",
+    "main.92216efc.css.map": "/nails/static/css/main.92216efc.css.map",
+    "main.bf6b78d5.js.map": "/nails/static/js/main.bf6b78d5.js.map",
+    "787.d7ff86a1.chunk.js.map": "/nails/static/js/787.d7ff86a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92216efc.css",
+    "static/js/main.bf6b78d5.js"
+  ]
+}
